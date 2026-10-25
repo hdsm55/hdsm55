@@ -23,7 +23,15 @@
   <a href="./README.ar.md"><img src="https://img.shields.io/badge/%F0%9F%87%B8%F0%9F%87%A6_%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-0ea5e9?style=for-the-badge" alt="العربية" /></a>
 </p>
 
----
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
+
+</div>
 
 ## 👋 About
 
@@ -52,7 +60,15 @@ const husam = {
 };
 ```
 
----
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
+
+</div>
 
 ## 🧭 What I Build
 
@@ -72,7 +88,15 @@ default, and boring on purpose.
 Full RTL experiences that feel native — proper typography, logical CSS properties, and
 layouts that don't break when the language is Arabic.
 
----
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
+
+</div>
 
 ## 🛠️ Tech Stack
 
@@ -90,7 +114,15 @@ layouts that don't break when the language is Arabic.
 | **Infra** | Linux · Docker Compose · Caddy · Nginx · Cloudflare · GitHub Actions |
 | **Mobile** | Flutter · React Native (Expo) · Capacitor |
 
----
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
+
+</div>
 
 ## 🚀 Featured Project
 
@@ -103,66 +135,162 @@ npx gh-streak <username>
 
 `MIT` · `Node >= 18` · `zero deps` · `CI on 18/20/22` · [releases](https://github.com/hdsm55/gh-streak/releases)
 
----
 
-## 📚 Selected Work
+<div align="center">
 
-A cross-section of the kinds of products I build — described by what they do, not where they live.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
 
-**🧳 Travel & community**
-A social travel platform where people discover places, log trips, collect badges and follow
-other travellers — with maps, a digital travel passport and an AI trip advisor.
-*Arabic-first, full RTL, geospatial search.*
+</div>
 
-**🍽️ Restaurant operations**
-A multi-tenant operations platform: guests scan a table QR, order from a digital menu, and
-requests land instantly on cashier and kitchen screens through to billing and settlement.
-*Real-time, high traffic, offline-tolerant.*
+## 🌐 Live Products
 
-**🚗 Rentals marketplace**
-A multi-supplier marketplace plus rental-operations system: search and book from local
-offices, then run the full lifecycle — confirmation, digital check-out, active rental,
-check-in, charges and verified reviews. *Money handled in integer minor units.*
+Real, shipped, and online right now — click any card to visit.
 
-**🩺 Health platform**
-A local-first clinical operating system: appointments, queues, vitals, visits, diagnoses and
-prescriptions in one model, designed to grow from a single clinic to a hospital network.
-*Privacy-first, works inside the facility network.*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🥗 Nutrition coaching**
-A personal nutrition platform with a human dietitian in the loop: approved weekly plans,
-meal alternatives that respect allergies, weekly follow-up, private chat and a monthly
-report. *RTL-first, data export and account deletion built in.*
+### 🍽️ [ServeQR](https://serveqr.online)
+Table-QR ordering for restaurants — guests scan, order, and requests hit the kitchen instantly.
+`serveqr.online`
 
-**🛒 Commerce**
-Arabic e-commerce experiences end-to-end — catalogue, cart, orders, coupons and an admin
-dashboard, with exact decimal money math and secure server-side sessions.
+</td>
+<td width="50%" valign="top">
 
-**🎙️ Media intelligence**
-A podcast editor's assistant: transcribes episodes with timestamps, classifies each segment,
-scores impact and extractability, and surfaces clip-worthy moments and content ideas.
+### 🧳 [Rihla](https://rihlak.online)
+Social travel platform — discover places, log trips, collect badges, follow travellers.
+`rihlak.online`
 
-**📰 Content production**
-An internal production pipeline that collects from vetted sources, clusters related stories,
-drafts angles and scripts, and drives the downstream voice and media workflow.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**📸 Photo discovery**
-A self-hosted event-photo platform: photographers upload albums, guests upload a selfie and
-find themselves — consent-based, privacy-first face matching.
+### 🚗 [RUKUB](https://rukub.primestack.digital)
+Multi-supplier car rental marketplace plus the full rental-operations lifecycle.
+`rukub.primestack.digital`
 
-**🎯 Marketing operations**
-An AI-assisted marketing system that builds a persistent brand brain from a product's repo
-and docs, then produces on-brand content and creative with human approval before publishing.
+</td>
+<td width="50%" valign="top">
 
-**📦 Export toolkit**
-A browser-only toolkit for exporters: Incoterms guidance, export price calculation,
-proforma invoices, shipping math and HS code lookup — no accounts, data never leaves the device.
+### 🩺 [Aafiyati](https://afiyati.primestack.digital)
+Local-first clinical platform — appointments, vitals, visits, diagnoses, prescriptions.
+`afiyati.primestack.digital`
 
-**📱 Internal tools & admin**
-Flutter and web admin apps for real operations: live KPIs, leads, tickets, audit trails —
-speaking to the same APIs as the public product.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🥗 [SLS Nutrition](https://salsabil.primestack.digital)
+Personal nutrition coaching with a real dietitian — approved plans and weekly follow-up.
+`salsabil.primestack.digital`
+
+</td>
+<td width="50%" valign="top">
+
+### 🪑 [Athathk](https://athathk-ymn.store)
+Arabic furniture commerce — storefront, admin dashboard and native mobile app.
+`athathk-ymn.store`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ [SADA](https://sada.click)
+AI podcast editor's assistant — transcripts, segment scoring, clip-worthy moments.
+`sada.click`
+
+</td>
+<td width="50%" valign="top">
+
+### 📰 [Masdar](https://masdar.site)
+News-to-video production pipeline — collect, cluster, draft angles and scripts.
+`masdar.site`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📸 [Wedding Photo Finder](https://camphofin.online)
+Guests find their photos with a selfie — consent-based, privacy-first matching.
+`camphofin.online`
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 [Commercial Agency OS](https://sanadk.online)
+Deterministic financial core plus a controlled AI layer for agency operations.
+`sanadk.online`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 [Ghaya](https://ghayah.online)
+Youth community membership portal — Arabic-first registration and admin tools.
+`ghayah.online`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔨 [Mazadi](https://mzayd.online)
+Auction platform — listings, bidding and global reach.
+`mzayd.online`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🇹🇷 [TURYED](https://turyed.online)
+Digital platform for Yemenis in Turkey — content, services and community.
+`turyed.online`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Telegauto](https://telegauto.online)
+Telegram automation — scheduled messages, channel management and automation.
+`telegauto.online`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 [Media Agent](https://silatech.online)
+AI marketing operating system — persistent brand brain, on-brand content, human approval.
+`silatech.online`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏢 [Prime Stack](https://primestack.digital)
+Software engineering company site — services, work and client portal.
+`primestack.digital`
+
+</td>
+</tr>
+</table>
+
+<sub>**Also on GitHub:** [gh-streak](https://github.com/hdsm55/gh-streak) — contribution streak CLI · [Export toolkit](https://github.com/hdsm55) — browser-only export tools</sub>
+
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
+
+</div>
 
 ## 💡 Ideas I'm Exploring
 
@@ -183,7 +311,15 @@ Small, useful tools I'd like to build or see built — a running notebook of pro
 - **Restore drill** — a tool that proves your backups actually restore, instead of assuming.
 - **Log-to-story** — turn noisy production logs into a short, human explanation of what broke.
 
----
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
+
+</div>
 
 ## 📈 Recent Activity
 
@@ -198,7 +334,15 @@ Small, useful tools I'd like to build or see built — a running notebook of pro
 
 Every square is a day I shipped something — refreshed from GitHub automatically.
 
----
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
+
+</div>
 
 ## 📊 By the Numbers
 
@@ -235,7 +379,15 @@ Every square is a day I shipped something — refreshed from GitHub automaticall
 
 <sub>Generated from my real GitHub data — including private work — and refreshed automatically every day.</sub>
 
----
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
+
+</div>
 
 ## 🧠 Principles
 
@@ -247,7 +399,15 @@ Every square is a day I shipped something — refreshed from GitHub automaticall
 >
 > **Prove it.** A claim is not a result — run it, measure it, show the output.
 
----
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg" />
+  <img src="assets/divider.svg" width="100%" alt="" />
+</picture>
+
+</div>
 
 ## 🔭 Currently
 
