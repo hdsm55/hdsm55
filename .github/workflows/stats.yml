@@ -28,6 +28,7 @@ jobs:
           node scripts/gen-stats.mjs
           node scripts/gen-activity.mjs
           node scripts/gen-insights.mjs
+          node scripts/gen-rhythm.mjs
       - name: Commit if changed
         run: |
           if git diff --quiet -- assets/; then

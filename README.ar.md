@@ -303,6 +303,10 @@ npx gh-streak <username>
   <source media="(prefers-color-scheme: dark)" srcset="assets/months-dark.svg" />
   <img src="assets/months-light.svg" alt="الإنتاج الشهري" />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg" />
+  <img src="assets/rhythm-light.svg" alt="إيقاع الأسبوع" />
+</picture>
 
 </div>
 

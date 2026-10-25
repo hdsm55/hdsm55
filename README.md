@@ -400,6 +400,10 @@ Every square is a day I shipped something — refreshed from GitHub automaticall
   <source media="(prefers-color-scheme: dark)" srcset="assets/months-dark.svg" />
   <img src="assets/months-light.svg" alt="Monthly output" />
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/rhythm-dark.svg" />
+  <img src="assets/rhythm-light.svg" alt="Weekly rhythm" />
+</picture>
 
 </div>
 
