@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="172" viewBox="0 0 560 172" role="img" aria-label="Language mix">
+  <text x="20" y="28" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="600" fill="#1f2328" letter-spacing="1">LANGUAGE MIX</text>
+  <text x="20" y="63" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">TypeScript</text>
+  <rect x="150" y="52" width="300" height="12" rx="6" fill="#eaeef2"/>
+  <rect x="150" y="52" width="272.9" height="12" rx="6" fill="#6d4aff"/>
+  <text x="540" y="63" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">91.0%</text>
+  <text x="20" y="89" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">Python</text>
+  <rect x="150" y="78" width="300" height="12" rx="6" fill="#eaeef2"/>
+  <rect x="150" y="78" width="16.4" height="12" rx="6" fill="#0ea5e9"/>
+  <text x="540" y="89" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">5.5%</text>
+  <text x="20" y="115" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">Shell</text>
+  <rect x="150" y="104" width="300" height="12" rx="6" fill="#eaeef2"/>
+  <rect x="150" y="104" width="7.7" height="12" rx="6" fill="#10b981"/>
+  <text x="540" y="115" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">2.6%</text>
+  <text x="20" y="141" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">JavaScript</text>
+  <rect x="150" y="130" width="300" height="12" rx="6" fill="#eaeef2"/>
+  <rect x="150" y="130" width="3.0" height="12" rx="6" fill="#f59e0b"/>
+  <text x="540" y="141" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">1.0%</text>
+</svg>

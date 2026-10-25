@@ -206,6 +206,30 @@ Every square is a day I shipped something — refreshed from GitHub automaticall
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/mix-dark.svg" />
+  <img src="assets/mix-light.svg" alt="How I contribute" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/langs-dark.svg" />
+  <img src="assets/langs-light.svg" alt="Language mix" />
+</picture>
+
+</div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/months-dark.svg" />
+  <img src="assets/months-light.svg" alt="Monthly output" />
+</picture>
+
+</div>
+
+<sub>Generated from my real GitHub data — including private work — and refreshed automatically every day.</sub>
+
 ---
 
 ## 🧠 Principles
