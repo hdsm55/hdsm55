@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="132" viewBox="0 0 560 132" role="img" aria-label="Contribution breakdown">
   <text x="20" y="28" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="600" fill="#1f2328" letter-spacing="1">HOW I CONTRIBUTE</text>
-  <text x="540" y="28" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">3k total</text>
-  <rect x="20.0" y="54" width="507.4" height="16" rx="4" fill="#6d4aff"><title>Commits: 2966</title></rect>
-  <rect x="529.4" y="54" width="8.6" height="16" rx="4" fill="#0ea5e9"><title>Pull requests: 62</title></rect>
-  <circle cx="24" cy="94" r="4" fill="#6d4aff"/><text x="36" y="98" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">Commits <tspan fill="#6e7781">2966</tspan></text>
-  <circle cx="204" cy="94" r="4" fill="#0ea5e9"/><text x="216" y="98" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">Pull requests <tspan fill="#6e7781">62</tspan></text>
+  <text x="540" y="28" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">16 total</text>
+  <rect x="20.0" y="54" width="453.0" height="16" rx="4" fill="#6d4aff"><title>Commits: 14</title></rect>
+  <rect x="475.0" y="54" width="63.0" height="16" rx="4" fill="#0ea5e9"><title>Pull requests: 2</title></rect>
+  <circle cx="24" cy="94" r="4" fill="#6d4aff"/><text x="36" y="98" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">Commits <tspan fill="#6e7781">14</tspan></text>
+  <circle cx="204" cy="94" r="4" fill="#0ea5e9"/><text x="216" y="98" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">Pull requests <tspan fill="#6e7781">2</tspan></text>
 </svg>
