@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=190&section=header&text=Husam%20Al-Dhaheri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=58&descSize=18" width="100%" alt="Husam Al-Dhaheri" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=200&section=header&text=Husam%20Al-Dhaheri&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Developer&descAlignY=56&descSize=19" width="100%" alt="Husam Al-Dhaheri" />
 
 <a href="https://github.com/hdsm55">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=Building+production+web+platforms;TypeScript+%7C+Next.js+%7C+Node.js+%7C+Python;Self-hosted+infrastructure+%26+dev+tooling" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=560&lines=Building+production+web+platforms;TypeScript+%7C+Next.js+%7C+Node.js+%7C+Python;Self-hosted+infrastructure+%26+dev+tooling;From+database+to+pixel" alt="typing" />
 </a>
 
 <p>
   <img src="https://img.shields.io/badge/Istanbul,%20Turkey-0f0c29?style=flat-square&logo=googlemaps&logoColor=white" alt="Istanbul" />
   <img src="https://img.shields.io/badge/Open%20Source-MIT-8B5CF6?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
+  <img src="https://komarev.com/ghpvc/?username=hdsm55&style=flat-square&color=8B5CF6&label=Profile%20views" alt="Profile views" />
 </p>
 
 </div>
@@ -45,7 +46,9 @@ const husam = {
 
 <div align="center">
 
-### 🔥 [gh-streak](https://github.com/hdsm55/gh-streak)
+<a href="https://github.com/hdsm55/gh-streak">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hdsm55&repo=gh-streak&theme=radical&hide_border=true&bg_color=0f0c29&title_color=8B5CF6&icon_color=8B5CF6&text_color=9ca3af" alt="gh-streak" />
+</a>
 
 **Track your GitHub contribution streak — from public data only. No auth, no keys.**
 
@@ -56,8 +59,6 @@ const husam = {
 ```bash
 npx gh-streak <username>
 ```
-
-<sub>Zero dependencies · MIT · <a href="https://github.com/hdsm55/gh-streak/releases">releases</a></sub>
 
 </div>
 
@@ -78,6 +79,20 @@ npx gh-streak <username>
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hdsm55/hdsm55/output/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hdsm55/hdsm55/output/snake-light.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/hdsm55/hdsm55/output/snake.svg" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 ### 🤝 Let's connect
@@ -88,6 +103,6 @@ npx gh-streak <username>
 
 <sub><i>Building in public, one commit at a time. 🔥</i></sub>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=footer" width="100%" alt="footer" />
 
 </div>
