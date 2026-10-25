@@ -411,6 +411,12 @@ Every square is a day I shipped something — refreshed from GitHub automaticall
 
 ## 🔭 Currently
 
+<p>
+  <img src="https://img.shields.io/badge/%E2%9C%93-Building%20open--source%20dev%20tools-6d4aff?style=flat-square" alt="Building" />
+  <img src="https://img.shields.io/badge/%E2%9C%93-Self--hosted%20infrastructure-0ea5e9?style=flat-square" alt="Infra" />
+  <img src="https://img.shields.io/badge/%E2%9C%93-Arabic--first%20interfaces-10b981?style=flat-square" alt="RTL" />
+</p>
+
 - Building **open-source developer tools** that solve problems I hit myself.
 - Deepening **self-hosted infrastructure**: backups that restore, deploys that roll back.
 - Writing **Arabic-first interfaces** that feel designed for the language, not translated into it.
