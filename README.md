@@ -1,24 +1,29 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Husam Al-Dhaheri — Full-Stack Developer" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg" />
+  <img src="assets/hero-light.svg" width="100%" alt="Husam Al-Dhaheri — Full-Stack Developer" />
+</picture>
 
 <a href="https://github.com/hdsm55">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=I+build+production+web+platforms+end-to-end;From+schema+and+API+to+the+pixel+users+touch;Self-hosted+infrastructure+%26+developer+tooling;Clean+architecture.+Fast.+Observable." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=6D4AFF&center=true&vCenter=true&width=600&lines=I+build+production+web+platforms+end-to-end;From+schema+and+API+to+the+pixel+users+touch;Self-hosted+infrastructure+%26+developer+tooling" alt="typing" />
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Istanbul,%20Turkey-161331?style=flat-square&logo=googlemaps&logoColor=c7c9f5" alt="Istanbul" />
-  <img src="https://img.shields.io/badge/Open%20Source-MIT-6d4aff?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
+  <img src="https://img.shields.io/badge/Istanbul,%20Turkey-6e7781?style=flat-square&logo=googlemaps&logoColor=white" alt="Istanbul" />
   <img src="https://komarev.com/ghpvc/?username=hdsm55&style=flat-square&color=6d4aff&label=Profile%20views" alt="Profile views" />
 </p>
 
 </div>
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
 ## 👋 About
 
-I'm a **full-stack developer** who ships production web platforms end-to-end — from the database schema and API design to the interface users actually touch. I care about **clean architecture, self-hosted infrastructure, and developer tooling** that removes friction.
+I'm a **full-stack developer** who ships production web platforms end-to-end — from the
+database schema and API design to the interface users actually touch.
+
+I care about three things: **clean architecture**, **self-hosted infrastructure** I fully
+understand, and **developer tooling** that removes friction. When I build something, it
+should be fast, observable, and easy for the next person to pick up.
 
 ```ts
 const husam = {
@@ -27,85 +32,66 @@ const husam = {
   data: ["PostgreSQL/PostGIS", "Redis"],
   ops: ["Linux", "Docker", "Caddy/Nginx", "Cloudflare", "CI/CD"],
   philosophy: "Ship small, ship reliable, keep it observable.",
-  currently: "Building open-source developer tools",
 };
 ```
 
-<img src="assets/divider.svg" width="100%" alt="" />
-
 ## 🧭 What I Build
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**🏗️ Production platforms** — Real apps with real data, real auth and real traffic:
+database schema → API → UI, built to stay up and stay fast.
 
-### 🏗️ Production platforms
-End-to-end web apps: schema → API → UI. Real data, real auth, real traffic — built to stay up and stay fast.
+**⚙️ Self-hosted infrastructure** — Linux, containers, reverse proxies, CI/CD and DNS.
+I own the stack from the metal to the certificate.
 
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ Self-hosted infra
-Linux servers, containers, reverse proxies, CI/CD and DNS. I own the stack from the metal to the certificate.
-
-</td>
-<td width="33%" valign="top">
-
-### 🧰 Developer tooling
-Small, sharp CLIs and automations that cut friction — like [gh-streak](https://github.com/hdsm55/gh-streak), zero-dependency by design.
-
-</td>
-</tr>
-</table>
-
-<img src="assets/divider.svg" width="100%" alt="" />
+**🧰 Developer tooling** — Small, sharp tools that cut friction. Zero-dependency by
+preference, documented by default.
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,redis,docker,linux,nginx,cloudflare,git,githubactions&perline=7" alt="Tech stack" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,python,postgres,redis,docker,linux,nginx,cloudflare,git,githubactions&perline=7" alt="Tech Stack" />
 
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 🚀 Featured Project
 
-<div align="center">
+**[gh-streak](https://github.com/hdsm55/gh-streak)** — a tiny CLI that tracks your GitHub
+contribution streak using **public data only**. No auth, no keys, no dependencies.
 
-<a href="https://github.com/hdsm55/gh-streak">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hdsm55&repo=gh-streak&theme=radical&hide_border=true&bg_color=161331&title_color=8B5CF6&icon_color=22D3EE&text_color=c7c9f5" alt="gh-streak" />
-</a>
-
-**Track your GitHub contribution streak — from public data only. No auth, no keys.**
-
-[![CI](https://github.com/hdsm55/gh-streak/actions/workflows/ci.yml/badge.svg)](https://github.com/hdsm55/gh-streak/actions/workflows/ci.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/hdsm55/gh-streak/blob/main/LICENSE)
-[![Node](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://github.com/hdsm55/gh-streak)
-
-```bash
+```
 npx gh-streak <username>
 ```
 
-</div>
+`MIT` · `Node >= 18` · `zero deps` · [releases](https://github.com/hdsm55/gh-streak/releases)
 
-<img src="assets/divider.svg" width="100%" alt="" />
+## 💡 Ideas I'm Exploring
 
-## 📊 GitHub Stats
+Small, useful tools I'd like to build or see built — a running notebook of problems worth solving:
+
+- **Deploy doctor** — a CLI that inspects a server and tells you *why* a deploy failed,
+  in plain language, before you start guessing.
+- **Schema diff** — compare two database schemas and produce a human-readable migration
+  plan with risk flags (locks, rewrites, data loss).
+- **Env auditor** — scan a project for missing, unused or duplicated environment
+  variables across code, CI and deployment config.
+- **API contract watcher** — detect breaking changes between API versions and generate
+  a changelog for consumers.
+- **Arabic-first UI patterns** — a reference collection of RTL layout, typography and
+  form patterns that actually behave well in real products.
+- **Self-host cookbook** — opinionated, copy-paste recipes for running real apps on a
+  single Linux box: TLS, backups, logs, restarts, and upgrades.
+
+## 📊 By the Numbers
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hdsm55&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=22D3EE&text_color=c7c9f5&bg_color=161331&count_private=false&rank_icon=github" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdsm55&layout=compact&hide_border=true&title_color=8B5CF6&text_color=c7c9f5&bg_color=161331&langs_count=6" alt="top langs" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hdsm55&theme=dark&hide_border=true&background=161331&ring=8B5CF6&fire=22D3EE&currStreakLabel=8B5CF6&sideLabels=c7c9f5&dates=7c80a8" alt="streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg" />
+  <img src="assets/stats-light.svg" width="100%" alt="GitHub statistics" />
+</picture>
 
 </div>
-
-<img src="assets/divider.svg" width="100%" alt="" />
 
 ## 💡 Principles
 
@@ -119,9 +105,15 @@ npx gh-streak <username>
 
 ### 🤝 Let's connect
 
-<a href="https://github.com/hdsm55"><img src="https://img.shields.io/badge/GitHub-hdsm55-6d4aff?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://github.com/hdsm55/gh-streak"><img src="https://img.shields.io/badge/gh--streak-CLI-161331?style=for-the-badge&logo=gnubash&logoColor=c7c9f5" alt="gh-streak" /></a>
+<a href="https://github.com/hdsm55"><img src="https://img.shields.io/badge/GitHub-hdsm55-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
-<img src="assets/footer.svg" width="100%" alt="footer" />
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg" />
+  <img src="assets/footer-light.svg" width="100%" alt="footer" />
+</picture>
+
+</div>

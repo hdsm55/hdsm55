@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="210" viewBox="0 0 1180 210" role="img" aria-label="Husam Al-Dhaheri — Full-Stack Developer">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+    <text x="590" y="86" text-anchor="middle" font-size="52" font-weight="700" fill="#e6edf3" letter-spacing="0.5">Husam Al-Dhaheri</text>
+    <rect x="470" y="108" width="240" height="3" rx="1.5" fill="url(#acc)"/>
+    <text x="590" y="144" text-anchor="middle" font-size="19" fill="#8b949e" letter-spacing="3.2">FULL-STACK DEVELOPER</text>
+    <text x="590" y="176" text-anchor="middle" font-size="14" fill="#8b949e" letter-spacing="1">TypeScript · Next.js · Node.js · Python · PostgreSQL</text>
+  </g>
+</svg>
