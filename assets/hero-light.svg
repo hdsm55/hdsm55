@@ -1,37 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="260" viewBox="0 0 1180 260" role="img" aria-label="Husam Al-Dhaheri — Full-Stack Developer">
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="300" viewBox="0 0 1180 300" role="img" aria-label="Husam Al-Dhaheri — Full-Stack Developer">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#f7f5ff"/>
-      <stop offset="55%" stop-color="#eef5ff"/>
-      <stop offset="100%" stop-color="#f2fbfa"/>
+      <stop offset="0%" stop-color="#faf8ff"/>
+      <stop offset="45%" stop-color="#f0f6ff"/>
+      <stop offset="100%" stop-color="#effcf9"/>
     </linearGradient>
+    <radialGradient id="glowA" cx="12%" cy="18%" r="42%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="88%" cy="82%" r="40%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
     <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.18"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.18"/>
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.20"/>
     </linearGradient>
     <linearGradient id="w2" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.16"/>
       <stop offset="100%" stop-color="#a78bfa" stop-opacity="0.16"/>
     </linearGradient>
-    <linearGradient id="w3" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.12"/>
-      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.12"/>
-    </linearGradient>
     <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0%" stop-color="#6d4aff"/>
-      <stop offset="100%" stop-color="#0ea5e9"/>
+      <stop offset="60%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="50%" stop-color="#0ea5e9"/>
+      <stop offset="100%" stop-color="#10b981"/>
     </linearGradient>
   </defs>
 
-  <rect width="1180" height="260" fill="url(#bg)"/>
-  <path d="M0 196 C 180 168, 320 224, 500 200 S 820 156, 1180 190 L1180 260 L0 260 Z" fill="url(#w1)"/>
-  <path d="M0 216 C 200 190, 360 240, 560 216 S 900 182, 1180 210 L1180 260 L0 260 Z" fill="url(#w2)"/>
-  <path d="M0 236 C 220 214, 400 254, 620 236 S 940 208, 1180 230 L1180 260 L0 260 Z" fill="url(#w3)"/>
+  <rect width="1180" height="300" fill="url(#bg)"/>
+  <rect width="1180" height="300" fill="url(#glowA)"/>
+  <rect width="1180" height="300" fill="url(#glowB)"/>
 
-  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif" text-anchor="middle">
-    <text x="590" y="86" font-size="52" font-weight="700" fill="#1f2328" letter-spacing="0.4">Husam Al-Dhaheri</text>
-    <rect x="471" y="108" width="238" height="3.5" rx="1.75" fill="url(#acc)"/>
-    <text x="590" y="145" font-size="18" fill="#57606a" letter-spacing="3">FULL-STACK DEVELOPER</text>
-    <text x="590" y="174" font-size="13.5" fill="#6e7781" letter-spacing="0.9">TypeScript · Next.js · Node.js · Python · PostgreSQL</text>
+  <!-- أفاتار بإطار متدرّج -->
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+    <text x="60" y="126" font-size="42" font-weight="700" fill="#1f2328" letter-spacing="0.3">Husam Al-Dhaheri</text>
+    <text x="60" y="158" font-size="16" fill="#57606a" letter-spacing="2.6">FULL-STACK DEVELOPER</text>
+    <text x="60" y="186" font-size="13" fill="#6e7781" letter-spacing="0.8">TypeScript · Next.js · Node.js · Python · PostgreSQL</text>
+    <rect x="60" y="202" width="72" height="3" rx="1.5" fill="url(#acc)"/>
+    <text x="146" y="207" font-size="12.5" fill="#6e7781">Istanbul, Turkey</text>
   </g>
+
+  <!-- موجات -->
+  <path d="M0 250 C 180 226, 330 274, 520 252 S 840 214, 1180 244 L1180 300 L0 300 Z" fill="url(#w1)"/>
+  <path d="M0 272 C 210 250, 380 292, 580 272 S 920 244, 1180 268 L1180 300 L0 300 Z" fill="url(#w2)"/>
 </svg>

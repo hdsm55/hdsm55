@@ -10,11 +10,28 @@
 </a>
 
 <p>
-  <img src="https://img.shields.io/badge/Istanbul,%20Turkey-6e7781?style=flat-square&logo=googlemaps&logoColor=white" alt="Istanbul" />
-  <img src="https://img.shields.io/badge/Focus-Full--stack%20%2B%20infra-6d4aff?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Arabic-first-RTL-0ea5e9?style=flat-square" alt="RTL" />
-  <img src="https://komarev.com/ghpvc/?username=hdsm55&style=flat-square&color=6d4aff&label=Profile%20views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/50%2B-merged%20PRs-6d4aff?style=flat-square" alt="Merged PRs" />
+  <img src="https://img.shields.io/badge/14-live%20products-0ea5e9?style=flat-square" alt="Live products" />
+  <img src="https://img.shields.io/badge/3k%2B-contributions%2Fyear-10b981?style=flat-square" alt="Contributions" />
+  <img src="https://komarev.com/ghpvc/?username=hdsm55&style=flat-square&color=8b5cf6&label=views" alt="Profile views" />
 </p>
+
+<p>
+  <img src="https://img.shields.io/badge/Istanbul,%20Turkey-6e7781?style=flat-square&logo=googlemaps&logoColor=white" alt="Istanbul" />
+  <img src="https://img.shields.io/badge/Arabic--first-RTL-0ea5e9?style=flat-square" alt="RTL" />
+  <img src="https://img.shields.io/badge/Open%20Source-MIT-10b981?style=flat-square&logo=opensourceinitiative&logoColor=white" alt="Open Source" />
+</p>
+
+</div>
+
+<div align="center">
+
+<a href="#-about"><img src="https://img.shields.io/badge/About-8b5cf6?style=flat-square" alt="About" /></a>
+<a href="#-what-i-build"><img src="https://img.shields.io/badge/What%20I%20Build-0ea5e9?style=flat-square" alt="What I Build" /></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-10b981?style=flat-square" alt="Tech Stack" /></a>
+<a href="#-live-products"><img src="https://img.shields.io/badge/Live%20Products-f59e0b?style=flat-square" alt="Live Products" /></a>
+<a href="#-by-the-numbers"><img src="https://img.shields.io/badge/Stats-ec4899?style=flat-square" alt="Stats" /></a>
+<a href="#-principles"><img src="https://img.shields.io/badge/Principles-6e7781?style=flat-square" alt="Principles" /></a>
 
 </div>
 
@@ -129,9 +146,18 @@ layouts that don't break when the language is Arabic.
 **[gh-streak](https://github.com/hdsm55/gh-streak)** — a tiny CLI that tracks your GitHub
 contribution streak using **public data only**. No auth, no keys, no dependencies.
 
-```
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=hdsm55&repo=gh-streak&bg_color=0D1117&title_color=A78BFA&text_color=E6EDF3&icon_color=38BDF8&hide_border=true&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hdsm55&repo=gh-streak&bg_color=FFFFFF&title_color=6D4AFF&text_color=57606A&icon_color=0EA5E9&hide_border=true&border_radius=10" alt="gh-streak" />
+</picture>
+
+```bash
 npx gh-streak <username>
 ```
+
+</div>
 
 `MIT` · `Node >= 18` · `zero deps` · `CI on 18/20/22` · [releases](https://github.com/hdsm55/gh-streak/releases)
 

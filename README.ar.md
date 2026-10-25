@@ -10,9 +10,14 @@
 </picture>
 
 <p>
-  <img src="https://img.shields.io/badge/إسطنبول،%20تركيا-6e7781?style=flat-square&logo=googlemaps&logoColor=white" alt="إسطنبول" />
-  <img src="https://img.shields.io/badge/التخصص-Full--Stack%20%2B%20Infra-6d4aff?style=flat-square" alt="التخصص" />
-  <img src="https://img.shields.io/badge/عربي%20أولاً-RTL-0ea5e9?style=flat-square" alt="RTL" />
+  <img src="https://img.shields.io/badge/%2B50-PR%20%D9%85%D8%AF%D9%85%D8%AC%D8%A9-6d4aff?style=flat-square" alt="PRs" />
+  <img src="https://img.shields.io/badge/14-%D9%85%D9%86%D8%AA%D8%AC%20%D8%AD%D9%8A-0ea5e9?style=flat-square" alt="منتجات حية" />
+  <img src="https://img.shields.io/badge/%2B3k-%D9%85%D8%B3%D8%A7%D9%87%D9%85%D8%A9%2F%D8%B3%D9%86%D8%A9-10b981?style=flat-square" alt="مساهمات" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/%D8%A5%D8%B3%D8%B7%D9%86%D8%A8%D9%88%D9%84%D8%8C%20%D8%AA%D8%B1%D9%83%D9%8A%D8%A7-6e7781?style=flat-square&logo=googlemaps&logoColor=white" alt="إسطنبول" />
+  <img src="https://img.shields.io/badge/%D8%B9%D8%B1%D8%A8%D9%8A%20%D8%A3%D9%88%D9%84%D8%A7%D9%8B-RTL-0ea5e9?style=flat-square" alt="RTL" />
 </p>
 
 </div>
