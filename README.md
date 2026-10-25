@@ -180,6 +180,21 @@ Small, useful tools I'd like to build or see built — a running notebook of pro
 
 ---
 
+## 📈 Recent Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg" />
+  <img src="assets/activity-light.svg" alt="Contribution activity — last 12 weeks" />
+</picture>
+
+</div>
+
+Every square is a day I shipped something — refreshed from GitHub automatically.
+
+---
+
 ## 📊 By the Numbers
 
 <div align="center">

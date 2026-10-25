@@ -8,6 +8,7 @@ on:
     branches: [main]
     paths:
       - "scripts/gen-stats.mjs"
+      - "scripts/gen-activity.mjs"
 
 permissions:
   contents: write
@@ -20,17 +21,19 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Generate stats SVGs
+      - name: Generate stats + activity SVGs
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: node scripts/gen-stats.mjs
+        run: |
+          node scripts/gen-stats.mjs
+          node scripts/gen-activity.mjs
       - name: Commit if changed
         run: |
-          if git diff --quiet -- assets/stats-light.svg assets/stats-dark.svg; then
+          if git diff --quiet -- assets/stats-light.svg assets/stats-dark.svg assets/activity-light.svg assets/activity-dark.svg; then
             echo "No change"; exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/stats-light.svg assets/stats-dark.svg
-          git commit -m "chore: refresh stats [skip ci]"
+          git add assets/stats-light.svg assets/stats-dark.svg assets/activity-light.svg assets/activity-dark.svg
+          git commit -m "chore: refresh stats & activity [skip ci]"
           git push
