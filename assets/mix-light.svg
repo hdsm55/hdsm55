@@ -1,8 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="132" viewBox="0 0 560 132" role="img" aria-label="Contribution breakdown">
   <text x="20" y="28" font-family="'Segoe UI',system-ui,sans-serif" font-size="13" font-weight="600" fill="#1f2328" letter-spacing="1">HOW I CONTRIBUTE</text>
-  <text x="540" y="28" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">21 total</text>
-  <rect x="20.0" y="54" width="468.5" height="16" rx="4" fill="#6d4aff"><title>Commits: 19</title></rect>
-  <rect x="490.5" y="54" width="47.5" height="16" rx="4" fill="#0ea5e9"><title>Pull requests: 2</title></rect>
-  <circle cx="24" cy="94" r="4" fill="#6d4aff"/><text x="36" y="98" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">Commits <tspan fill="#6e7781">19</tspan></text>
-  <circle cx="204" cy="94" r="4" fill="#0ea5e9"/><text x="216" y="98" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">Pull requests <tspan fill="#6e7781">2</tspan></text>
+  <text x="540" y="28" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#6e7781">28 total</text>
+  <rect x="20.0" y="54" width="443.7" height="16" rx="4" fill="#6d4aff"><title>Commits: 24</title></rect>
+  <rect x="465.7" y="54" width="53.7" height="16" rx="4" fill="#0ea5e9"><title>Pull requests: 3</title></rect>
+  <rect x="521.4" y="54" width="16.6" height="16" rx="4" fill="#10b981"><title>Issues: 1</title></rect>
+  <circle cx="24" cy="94" r="4" fill="#6d4aff"/><text x="36" y="98" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">Commits <tspan fill="#6e7781">24</tspan></text>
+  <circle cx="204" cy="94" r="4" fill="#0ea5e9"/><text x="216" y="98" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">Pull requests <tspan fill="#6e7781">3</tspan></text>
+  <circle cx="384" cy="94" r="4" fill="#10b981"/><text x="396" y="98" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#1f2328">Issues <tspan fill="#6e7781">1</tspan></text>
 </svg>
