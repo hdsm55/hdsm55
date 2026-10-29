@@ -8,9 +8,9 @@
   <text x="131.4" y="153" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">Mon</text>
   <rect x="183.4" y="81.9" width="44.6" height="54.1" rx="4" fill="#8b6bff" opacity="0.78"><title>Tue: 6.9 avg/day</title></rect>
   <text x="205.7" y="153" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">Tue</text>
-  <rect x="257.7" y="68.2" width="44.6" height="67.8" rx="4" fill="#8b6bff" opacity="0.78"><title>Wed: 8.7 avg/day</title></rect>
+  <rect x="257.7" y="67.6" width="44.6" height="68.4" rx="4" fill="#8b6bff" opacity="0.78"><title>Wed: 8.7 avg/day</title></rect>
   <text x="280.0" y="153" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">Wed</text>
-  <rect x="332.0" y="86.0" width="44.6" height="50.0" rx="4" fill="#8b6bff" opacity="0.78"><title>Thu: 6.4 avg/day</title></rect>
+  <rect x="332.0" y="86.2" width="44.6" height="49.8" rx="4" fill="#8b6bff" opacity="0.78"><title>Thu: 6.4 avg/day</title></rect>
   <text x="354.3" y="153" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">Thu</text>
   <rect x="406.3" y="53.4" width="44.6" height="82.6" rx="4" fill="#8b6bff" opacity="0.78"><title>Fri: 10.6 avg/day</title></rect>
   <text x="428.6" y="153" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#8b949e">Fri</text>
