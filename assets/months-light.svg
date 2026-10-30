@@ -21,8 +21,8 @@
   <text x="388.3" y="144" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#6e7781">07</text>
   <rect x="417.8" y="46.0" width="27.7" height="82.0" rx="3" fill="#a78bfa"><title>2026-08: 1003</title></rect>
   <text x="431.7" y="144" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#6e7781">08</text>
-  <rect x="461.1" y="88.4" width="27.7" height="39.6" rx="3" fill="#a78bfa"><title>2026-09: 484</title></rect>
+  <rect x="461.1" y="88.3" width="27.7" height="39.7" rx="3" fill="#a78bfa"><title>2026-09: 485</title></rect>
   <text x="475.0" y="144" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#6e7781">09</text>
-  <rect x="504.5" y="57.3" width="27.7" height="70.7" rx="3" fill="#a78bfa"><title>2026-10: 865</title></rect>
+  <rect x="504.5" y="55.0" width="27.7" height="73.0" rx="3" fill="#a78bfa"><title>2026-10: 893</title></rect>
   <text x="518.3" y="144" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#6e7781">10</text>
 </svg>
