@@ -304,6 +304,15 @@ Software engineering company site — services, work and client portal.
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📞 [Tilifouni](https://tilifouni.primestack.digital)
+Arabic-first personal assistant — scheduled reminders over Telegram & email, an RTL web UI, and a self-hosted voice agent.
+`tilifouni.primestack.digital` · private source
+
+</td>
+</tr>
 </table>
 
 <sub>**Also on GitHub:** [gh-streak](https://github.com/hdsm55/gh-streak) — contribution streak CLI · [Export toolkit](https://github.com/hdsm55) — browser-only export tools</sub>

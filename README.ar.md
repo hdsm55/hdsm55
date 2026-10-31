@@ -235,6 +235,15 @@ npx gh-streak <username>
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📞 [تلفوني](https://tilifouni.primestack.digital)
+مساعد شخصي عربي — تذكيرات مجدولة عبر تلغرام والبريد، واجهة ويب عربية RTL، ووكيل صوتي مستضاف ذاتياً.
+`tilifouni.primestack.digital` · المستودع خاص
+
+</td>
+</tr>
 </table>
 
 <sub>**أيضاً على GitHub:** [gh-streak](https://github.com/hdsm55/gh-streak) — أداة سلسلة الإسهامات · [أدوات التصدير](https://github.com/hdsm55) — تعمل في المتصفّح</sub>
